@@ -1,1 +1,1 @@
-# merge_cmd
+"Learning Merging Stratigies" 
